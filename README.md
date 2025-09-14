@@ -2,9 +2,9 @@ Nexus Darknet: The Ultimate Guide to the Nexus Darknet Market
 
 In the expanding world of darknet marketplaces, **Nexus Darknet** stands out as a leader, offering users a secure, private, and reliable platform for anonymous online trading. Whether you are a seasoned darknet user or new to this space, understanding what Nexus has to offer is essential to navigate the darknet safely and with confidence.
 
-[<img src="/storage/launch.webp" width="200">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+[<img src="/storage/launch.webp" width="200">](http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion)
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/storage/foreground.webp" alt="image" style="max-width: 100%;"></a>
+<a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/storage/foreground.webp" alt="image" style="max-width: 100%;"></a>
 
 
 What is Nexus Darknet?
@@ -24,7 +24,7 @@ How to Access Nexus Darknet Safely
 
 To use Nexus Darknet, start by downloading the Tor Browser, which enables secure access to .onion addresses. Always verify the authenticity of Nexus’s official onion links to avoid phishing scams. For enhanced security, combine Tor use with a trusted VPN, enable 2FA on your Nexus account, and use PGP encryption for sensitive communications.
 
-Official Nexus link: http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion
+Official Nexus link: http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion
 
 Conclusion
 
@@ -33,5 +33,7 @@ Since its establishment, Nexus Darknet Market has built a solid reputation based
 ---
 *Disclaimer: This article is for informational purposes only. Engaging in illegal activities on darknet markets is against the law and punishable by legal authorities.*
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/storage/default.webp" style="max-width: 100%;"></a>
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/storage/home.webp" style="max-width: 100%;"></a>
+<a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/storage/default.webp" style="max-width: 100%;"></a>
+<a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/storage/home.webp" style="max-width: 100%;"></a>
+
+Update:  14 September Fixed broken link, now reachable and live
