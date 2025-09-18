@@ -36,4 +36,6 @@ Since its establishment, Nexus Darknet Market has built a solid reputation based
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/storage/default.webp" style="max-width: 100%;"></a>
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/storage/home.webp" style="max-width: 100%;"></a>
 
-Update:  14 September Fixed broken link, now reachable and live
+
+
+Update:  18 September Link is now operational and accessible
